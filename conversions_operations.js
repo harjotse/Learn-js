@@ -13,3 +13,17 @@ let three=Number(score2)
 console.log(one)
 console.log(typeof three)
 
+// boolean conversion
+let score3=1
+let score4=" "
+let score5="abc"
+
+let four=Boolean(score3)
+console.log(four)
+console.log(typeof four)
+let five=Boolean(score4)
+console.log(five)
+console.log(typeof five)
+let six=Boolean(score5)
+console.log(six)
+console.log(typeof six)
