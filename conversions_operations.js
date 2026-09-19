@@ -14,7 +14,7 @@ console.log(one)
 console.log(typeof three)
 
 // boolean conversion
-let score3=1
+let score3=0
 let score4=" "
 let score5="abc"
 
