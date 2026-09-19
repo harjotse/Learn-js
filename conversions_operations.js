@@ -1,7 +1,8 @@
+//to number conversion
 let score=33
 let score1="andsda"
 let score2="ajn3"
-//to number conversion
+
 let one=Number(score)
 console.log(one)
 console.log(typeof one)
@@ -11,3 +12,4 @@ console.log(typeof two)
 let three=Number(score2)
 console.log(one)
 console.log(typeof three)
+
