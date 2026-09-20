@@ -41,13 +41,18 @@ console.log(typeof six)
 
  //*******************************.  Operations  *************************************************************************
 
- // if a string comes first then whole is treated a string 
- // if number comes first then first numbers are seen then its converted into string
+
 console.log(2+2)
 console.log(2-2)
 console.log(2*2)
 console.log(2**3) //2^3 pow
 console.log(2%5) //mod 
 
- let value=3
-   
+    // if a string comes first then whole is treated a string 
+ // if number comes first then first numbers are seen then its converted into string
+ console.log("1"+2)
+ console.log("2"+"1")
+ console.log(2+"1")
+ console.log("2"+"1"+1)
+ console.log("2"+1+2)
+ console.log(3+2+"1")
