@@ -38,3 +38,10 @@ console.log(typeof six)
  let eigth=String(score7)
   console.log(eigth)
  console.log(typeof eigth)
+
+ //*******************************.  Operations  *************************************************************************
+
+ // if a string comes first then whole is treated a string 
+ // if number comes first then first numbers are seen then its converted into string
+let value=3
+   
