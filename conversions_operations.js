@@ -27,3 +27,14 @@ console.log(typeof five)
 let six=Boolean(score5)
 console.log(six)
 console.log(typeof six)
+
+//String Conversion
+ let score6=4888
+ let score7=false
+ 
+ let seven=String(score6)
+ console.log(seven)
+ console.log(typeof seven)
+ let eigth=String(score7)
+  console.log(eigth)
+ console.log(typeof eigth)
