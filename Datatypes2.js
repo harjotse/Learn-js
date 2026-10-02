@@ -8,3 +8,7 @@
 
 
 //memories stack and heap
+let myName="idiot"
+let anotherName ="fatAss"
+
+console.log(anotherName)
