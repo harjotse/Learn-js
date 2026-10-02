@@ -5,3 +5,5 @@
 
 // new way called interpolation
 console.log(`Name is ${name} and repo is ${repoCount}`)
+
+//declaring String 

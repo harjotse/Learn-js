@@ -5,3 +5,6 @@
 
 //Reference (Non primitive)
 // Array objects functions
+
+
+//memories stack and heap
