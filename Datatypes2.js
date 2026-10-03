@@ -15,4 +15,5 @@ anotherName ="idioticfatAss"
 console.log(anotherName)
 console.log(myName)
 
-//now the reference is copied and nothing is happend to the 
+//now the reference is copied and nothing is happend to the og copy of reference 
+// niw if it was an object then the changes will be directly happen to the og copy
