@@ -9,6 +9,10 @@
 
 //memories stack and heap
 let myName="idiot"
-let anotherName ="fatAss"
+let anotherName=myName
+anotherName ="idioticfatAss"
 
 console.log(anotherName)
+console.log(myName)
+
+//now the reference is copied and nothing is happend to the 
