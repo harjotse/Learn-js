@@ -7,7 +7,7 @@
 // Array objects functions
 
 
-//memories stack and heap
+//memories stack and heap. -- almost same as java :)
 let myName="idiot"
 let anotherName=myName
 anotherName ="idioticfatAss"
